@@ -4,7 +4,7 @@ Shows specific world's country's central cities hours.
 
 Dünyanın belirli ülkelerinin başkentlerinin saatlerini gösterir.
 
-<p>
+<p align="center">
   <img src="doc/test1.JPG">
 </p>
 
@@ -12,6 +12,6 @@ If it is day time background photo is going to be light, if it is night time bac
 
 Gündüz ise arka plan fotoğrafı açık, gece ise arka plan fotoğrafı karanlık olacak. Konumu düzenle düğmesine tıklarsanız, ekrandan diğer şehirleri seçebilirsiniz.
 
-<p>
+<p align="center">
   <img src="doc/test2.JPG">
 </p>
