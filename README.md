@@ -1,16 +1,17 @@
-# worldtimes
+# WorldTimes
 
-A new Flutter application.
+Shows specific world's country's central cities hours.
 
-## Getting Started
+Dünyanın belirli ülkelerinin başkentlerinin saatlerini gösterir.
 
-This project is a starting point for a Flutter application.
+<p>
+  <img src="doc/test1.JPG">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+If it is day time background photo is going to be light, if it is night time background photo is going to be dark. If you click edit location button you can choose other cities from the screen.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Gündüz ise arka plan fotoğrafı açık, gece ise arka plan fotoğrafı karanlık olacak. Konumu düzenle düğmesine tıklarsanız, ekrandan diğer şehirleri seçebilirsiniz.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>
+  <img src="doc/test2.JPG">
+</p>
